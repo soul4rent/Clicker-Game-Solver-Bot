@@ -25,6 +25,7 @@ object.easyStart()
 object.timedStart()
 
 -Loops through and clicks on locations that are set up with proper timings
+
 WARNING: Experimental feature.
 
 
